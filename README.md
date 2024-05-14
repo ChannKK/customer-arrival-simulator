@@ -19,7 +19,7 @@ This simulation will consider factors such as the number of items acquired by ea
 
 ## Usage
 To use the simulator, follow these steps:
-1. Run the `main()` function.
+1. Run the `main` file.
 2. Input the number of customers and choose a type of random number generator.
 3. Follow the prompts to proceed with the simulation.
 4. View the output and evaluation results.
